@@ -1,0 +1,12 @@
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    color: #FFF!important;
+}
+p {
+    color: #FFF!important;
+}
+.body-wrap {
+    background: #000000!important;
+}
+.site-header::before {
+    background: #000000!important;
+}
