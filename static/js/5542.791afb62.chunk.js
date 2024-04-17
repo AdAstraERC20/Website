@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkAd_Astra=self.webpackChunkAd_Astra||[]).push([[5542],{5542:(n,s,t)=>{t.d(s,{LinksPlugin:()=>e});class e{constructor(){this.id="links"}async getPlugin(n){const{LinkInstance:s}=await t.e(5666).then(t.bind(t,5666));return new s(n)}loadOptions(){}needsPlugin(){return!0}}}}]);
-//# sourceMappingURL=5542.791afb62.chunk.js.map
