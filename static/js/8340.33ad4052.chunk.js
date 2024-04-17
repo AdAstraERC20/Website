@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkAd_Astra=self.webpackChunkAd_Astra||[]).push([[8340],{8340:(a,t,e)=>{async function n(a){let t=!(arguments.length>1&&void 0!==arguments[1])||arguments[1];await a.addParticleUpdater("color",(async a=>{const{ColorUpdater:t}=await e.e(3997).then(e.bind(e,3997));return new t(a)}),t)}e.d(t,{loadColorUpdater:()=>n})}}]);
+//# sourceMappingURL=8340.33ad4052.chunk.js.map
