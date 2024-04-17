@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.78cd0293.css",
-    "main.js": "/static/js/main.ec7af3ef.js",
+    "main.css": "/static/css/main.1eec9d26.css",
+    "main.js": "/static/js/main.4ecca657.js",
     "static/js/607.53ef2847.chunk.js": "/static/js/607.53ef2847.chunk.js",
     "static/js/7418.2ceafed1.chunk.js": "/static/js/7418.2ceafed1.chunk.js",
     "static/js/5.fcc27478.chunk.js": "/static/js/5.fcc27478.chunk.js",
@@ -71,10 +71,9 @@
     "static/js/9469.c7377301.chunk.js": "/static/js/9469.c7377301.chunk.js",
     "static/js/5666.3c6adefa.chunk.js": "/static/js/5666.3c6adefa.chunk.js",
     "static/media/AdAstraElon.png": "/static/media/AdAstraElon.fd61f29b5681064163a6.png",
-    "static/media/ca.png": "/static/media/ca.57fd9759df4b49a8e2c7.png",
     "index.html": "/index.html",
-    "main.78cd0293.css.map": "/static/css/main.78cd0293.css.map",
-    "main.ec7af3ef.js.map": "/static/js/main.ec7af3ef.js.map",
+    "main.1eec9d26.css.map": "/static/css/main.1eec9d26.css.map",
+    "main.4ecca657.js.map": "/static/js/main.4ecca657.js.map",
     "607.53ef2847.chunk.js.map": "/static/js/607.53ef2847.chunk.js.map",
     "7418.2ceafed1.chunk.js.map": "/static/js/7418.2ceafed1.chunk.js.map",
     "5.fcc27478.chunk.js.map": "/static/js/5.fcc27478.chunk.js.map",
@@ -145,7 +144,7 @@
     "5666.3c6adefa.chunk.js.map": "/static/js/5666.3c6adefa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.78cd0293.css",
-    "static/js/main.ec7af3ef.js"
+    "static/css/main.1eec9d26.css",
+    "static/js/main.4ecca657.js"
   ]
 }
